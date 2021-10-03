@@ -1,0 +1,21 @@
+.head {
+   display: flex;
+   justify-content: space-between;
+   padding: 1px 100px;
+   background-color: black;
+   line-height: 30px;
+}
+.head nav{
+    
+    margin-top: 20px;
+}
+.navlink{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.navlink:hover{
+    font-size: 28px;
+    text-shadow: 5px 5px 10px  red;
+}
