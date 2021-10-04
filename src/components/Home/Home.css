@@ -1,0 +1,20 @@
+.home{
+    background-color: #a4b3b1;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.home-static h1{
+    color: rgba(0, 0, 0, 0.856);
+    margin-top: 30px;
+}
+.home-static p{
+    color: rgba(68, 67, 67, 0.945);
+}
+.current {
+    margin-top: 75%;
+    background-color: white;
+    color: gold;
+    border-radius: 20px;
+    padding: 10px 5px;
+}

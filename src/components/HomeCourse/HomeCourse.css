@@ -1,0 +1,27 @@
+.homeCourse {
+    margin-bottom: 30px;
+}
+.card-img-overlay{
+    margin-top: 30%;
+    background-color: rgba(220, 220, 220, 0.829);
+}
+
+.card-text{
+    margin: 0;
+    padding: 0;
+}
+.card-title{
+    color: rgb(25, 177, 228);
+}
+.details{
+    color: black;
+}
+.price{
+    background-color: rgb(255, 217, 0);
+    border: 1px solid rgba(247, 229, 131, 0.507);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.774);
+}
+.card-img-overlay:hover{
+    display: none;
+}
