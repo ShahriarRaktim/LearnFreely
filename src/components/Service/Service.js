@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Courses from "../Courses/Courses";
-import './Service.css'
+import "./Service.css";
 
 const Service = () => {
   const [services, setServices] = useState([]);
@@ -13,13 +13,13 @@ const Service = () => {
     <>
       <div className="services">
         <h1>Take to Make Yourself !</h1>
-      <div className="container">
-        <div className="row row-cols-1 row-cols-md-3 g-5">
-         {
-           services.map(service => <Courses key={service.id} service={service}></Courses>)
-         }
+        <div className="container">
+          <div className="row row-cols-1 row-cols-md-3 g-5">
+            {services.map((service) => (
+              <Courses key={service.id} service={service}></Courses>
+            ))}
+          </div>
         </div>
-      </div>
       </div>
     </>
   );

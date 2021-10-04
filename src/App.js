@@ -1,13 +1,13 @@
 // import logo from './logo.svg';
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import Home from './components/Home/Home';
-import Service from './components/Service/Service';
-import Aboutus from './components/Aboutus/Aboutus';
-import Success from './components/Success/Success';
-import Notfound from './components/Notfound/Notfound';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+import Home from "./components/Home/Home";
+import Service from "./components/Service/Service";
+import Aboutus from "./components/Aboutus/Aboutus";
+import Success from "./components/Success/Success";
+import Notfound from "./components/Notfound/Notfound";
 
 function App() {
   return (
@@ -16,10 +16,10 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/">
-          <Home></Home>
+            <Home></Home>
           </Route>
           <Route path="/home">
-          <Home></Home>
+            <Home></Home>
           </Route>
           <Route path="/service">
             <Service></Service>
