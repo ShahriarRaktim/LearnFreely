@@ -1,0 +1,13 @@
+.card{
+  background-color: rgba(170, 166, 166, 0.568); 
+}
+.btn{
+    background-color: gold;
+    color: rgba(250, 79, 79, 0.801);
+    font-weight: 700;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(238, 238, 236, 0.705);
+}
+.card-text{
+    color: rgba(0, 0, 0, 0.726);
+}

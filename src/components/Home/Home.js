@@ -10,7 +10,8 @@ const Home = () => {
       .then((data) => setCourses(data));
   }, []);
   return (
-    <>  
+    <> 
+    <h1 className='yoga'>LIFE IS UNCOMPLETE WITHOUT YOGA !</h1> 
     <div className="home">
       <div className="container">
         <div className="row row-cols-2">
@@ -61,6 +62,8 @@ const Home = () => {
           of our clients worldwide. Whatever your language needs are, we are
           here to help
         </p>
+        <br />
+        <button className='price'>Learn More</button>
       </div>
     </>
   );

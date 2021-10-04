@@ -1,0 +1,12 @@
+.success{
+    margin: 5% 10%;
+    display: flex;
+    justify-content: space-around;
+}
+.success h1{
+    margin-top: 10%;
+    color: rgb(128, 245, 245);
+}
+.success p{
+    color: rgba(0, 0, 0, 0.541);
+}

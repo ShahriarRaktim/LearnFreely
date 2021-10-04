@@ -21,6 +21,7 @@
     border: 1px solid rgba(247, 229, 131, 0.507);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.774);
+    margin: 10px;
 }
 .card-img-overlay:hover{
     display: none;

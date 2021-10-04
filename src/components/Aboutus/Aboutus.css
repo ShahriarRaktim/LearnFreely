@@ -1,0 +1,26 @@
+.yoga{
+    margin-top: 20px;
+    font-size: 54px;
+    color: rgb(245, 106, 106);
+    padding-bottom: 20px;
+    text-shadow: 5px 5px 10px rgb(245, 106, 106);
+}
+.about{
+    background-color: hsla(0, 25%, 98%, 0.075);
+}
+.about h1{
+    color: rgb(127, 195, 218);
+}
+.last{
+    margin-top: 50px;
+    background-color: lightblue;
+    display: flex;
+}
+.about-p{
+    margin: 20px 90px;
+    border:1px solid lightblue;
+    border-radius: 20px;
+    background-color: rgba(250, 250, 210, 0.226);
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 224, 0.664);
+}

@@ -1,13 +1,13 @@
 .head {
+    position: top-fixed;
    display: flex;
    justify-content: space-between;
-   padding: 1px 100px;
+   padding: 10px 100px;
    background-color: black;
    line-height: 30px;
 }
 .head nav{
-    
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .navlink{
     font-size: 20px;
