@@ -12,9 +12,9 @@
 }
 .current {
     margin-top: 75%;
-    background-color: white;
+    background-color: skyblue;
     color: gold;
     border-radius: 20px;
     padding: 10px 5px;
-    box-shadow: 5px 5px 20px white;
+    box-shadow: 5px 5px 20px rgba(135, 207, 235, 0.507);
 }

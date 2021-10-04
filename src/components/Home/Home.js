@@ -55,12 +55,6 @@ const Home = () => {
           linguists and tutors operating from six continents, we serve the needs
           of our clients worldwide. Whatever your language needs are, we are
           here to help
-          Yoga is a global translation services and Meditaion courses company
-          founded in 1999. We aim to deliver quliaty translation and educational
-          services for everyone. With a core group of more than 700 professional
-          linguists and tutors operating from six continents, we serve the needs
-          of our clients worldwide. Whatever your language needs are, we are
-          here to help
         </p>
         <br />
         <button className='price'>Learn More</button>
