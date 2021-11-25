@@ -1,6 +1,6 @@
 # Learn Meditaion
 
-To learn visit my site [learn freely](https://learn-freely.netlify.app/).
+visit my site [learn freely](https://learn-freely.netlify.app/).
 
 ## About Site
 
